@@ -50,7 +50,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 💼 Featured Projects
+## 💼 91
+
 
 <div align="center">
 
@@ -86,6 +87,22 @@
 - 🎬 Movie database integration
 
 [![View Project](https://img.shields.io/badge/View%20Project-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/Lipsa2604/Netflix-clone)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+###  💕 Valentine Bot
+
+**Your goto love guru for love advices, flirty pickup lines 😉, love poems and ballets enough to impress your crush / bf / gf this valentine**
+
+- 💌 Love Advice - Genuine dating and relationship tips
+- 😉 Flirty Pickup Lines - Charming pickup lines to impress
+- 📝 Love Poems - Beautiful romantic poetry
+- 🎭 Activity Suggestions - Fun date ideas
+
+[[View Project](https://img.shields.io/badge/GitHub-View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lipsa2604/valentine-bot)
 
 </td>
 </tr>
