@@ -50,68 +50,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 💼 91
-
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏠 StayHub - Property Rental Platform
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
-
-**A modern rental booking platform**
-
-- 🔐 Secure authentication & authorization
-- 💳 Integrated Razorpay payment gateway
-- 📱 Responsive design with React
-- 🗄️ MongoDB database with Node.js
-
-[![View Project](https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lipsa2604/StayHub)
-
-</td>
-<td width="50%">
-
-### 🎬 Netflix Clone
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
-
-**Full-stack Netflix clone with modern UI**
-
-- 🎨 Pixel-perfect UI replication
-- ⚡ Fast and responsive design  
-- 🔄 Dynamic content loading
-- 🎬 Movie database integration
-
-[![View Project](https://img.shields.io/badge/View%20Project-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://github.com/Lipsa2604/Netflix-clone)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-###  💕 Valentine Bot
-
-**Your goto love guru for love advices, flirty pickup lines 😉, love poems and ballets enough to impress your crush / bf / gf this valentine**
-
-- 💌 Love Advice - Genuine dating and relationship tips
-- 😉 Flirty Pickup Lines - Charming pickup lines to impress
-- 📝 Love Poems - Beautiful romantic poetry
-- 🎭 Activity Suggestions - Fun date ideas
-
-[[View Project](https://img.shields.io/badge/GitHub-View%20Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lipsa2604/valentine-bot)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## 📊 GitHub Stats
 
 <div align="center">
