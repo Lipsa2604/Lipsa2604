@@ -121,7 +121,7 @@
 - 🌱 Learning advanced AI/ML techniques and neural networks
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about **MERN Stack, React, Node.js, MongoDB**
-- 📫 Reach me at: **2470189@kiit.ac.in**
+- 📫 Reach me at: **mohantylipsa423@gmail.com**
 - ⚡ Fun fact: I code better with dark themes and electronic music!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -134,7 +134,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whoislipsaaa/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Lipsa2604)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Lipsa2604)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2470189@kiit.ac.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohantylipsa423@gmail.com)
 
 </div>
 
